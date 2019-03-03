@@ -1,0 +1,114 @@
+<resources>
+    <!-- https://poeditor.com/kb/xml-editor -->
+
+    <string name="app_name">Movilizer Handler</string>
+
+    <string name="home_btn_scanner_name">Scanner</string>
+    <string name="home_btn_scanner_desc">Scanner Handler</string>
+    <string name="home_btn_nfc_name">NFC</string>
+    <string name="home_btn_nfc_desc">NFC Handler</string>
+    <string name="home_btn_timer_name">Timer</string>
+    <string name="home_btn_timer_desc">Timer Handler</string>
+    <string name="home_btn_notification_name">Notification</string>
+    <string name="home_btn_notification_desc">Notification Handler</string>
+    <string name="home_btn_sound_name">Sound</string>
+    <string name="home_btn_sound_desc">Sound Handler</string>
+    <string name="home_btn_vibration_name">Vibration</string>
+    <string name="home_btn_vibration_desc">Vibration Handler</string>
+    <string name="home_btn_incognit_name">Incognit Mode</string>
+    <string name="home_btn_incognit_desc">Hide graphical interface forever</string>
+    <string name="home_menu_about">About</string>
+    <string name="home_menu_exit">Exit</string>
+
+    <string name="about_author" translatable="false">Movicoders S.L.</string>
+    <string name="about_url_author" translatable="false">www.movicoders.com</string>
+    <string name="about_version">Version</string>
+
+
+    <string name="conf_scanner_title">@string/home_btn_scanner_desc</string>
+    <string name="conf_scanner_description">El Scanner Handler permite controlar el escáner laser de algunos modelos de PDA con Movilizer, de tal modo que cada uno de los códigos de barras leídos son reenviados hacia Movilizer para su posterior tratamiento, ya sea pintando el valor en pantalla, enviando el dato a la nube, etc.</string>
+
+
+    <string name="conf_nfc_title">@string/home_btn_nfc_desc</string>
+    <string name="conf_nfc_description">El NFC Handler permite controlar el lector NFC del dispositivo con Movilizer, cuando lance el NFC Handler aparecerá una ventana que le invitara a leer el Tag NFC y que posteriormente le devolverá su ID.</string>
+
+
+    <string name="conf_sound_title">@string/home_btn_sound_desc</string>
+    <string name="conf_sound_description">El Sound Handler permite reproducir sonidos de notificación con Movilizer, desde las siguientes opciones de configuración puede elegir el sonido que se reproducirá en cada situación. Los sonidos elegibles son los incorporados por el fabricante del dispositivo, adicionalmente puede añadir más sonidos al dispositivo agregándolos al directorio “Notifications” de la memoria interna.</string>
+    <string name="conf_sound_select_sound">Select a sound</string>
+    <string name="conf_sound_info">Info</string>
+    <string name="conf_sound_warning">Warning</string>
+    <string name="conf_sound_error">Error</string>
+    <string name="conf_sound_fatal_error">Fatal Error</string>
+    <string name="conf_sound_other">Other</string>
+    <string name="conf_sound_active">Activate sound notifications</string>
+
+
+    <string name="conf_vibration_title">@string/home_btn_vibration_desc</string>
+    <string name="conf_vibration_description">El Vibration Handler permite controlar la vibración del dispositivo con Movilizer, de este modo puede alertar al usuario tras haber leído un código de barras o un tag NFC correctamente, incorrectamente, etc.</string>
+    <string name="conf_vibration_info">Info:</string>
+    <string name="conf_vibration_warning">Warning:</string>
+    <string name="conf_vibration_error">Error:</string>
+    <string name="conf_vibration_fatal_error">Fatal Error:</string>
+    <string name="conf_vibration_success_scan">Correct reading of barcode or NFC:</string>
+    <string name="conf_vibration_error_scan">Incorrect reading of barcode or NFC:</string>
+    <string name="conf_vibration_active">Activate vibration notifications</string>
+
+
+    <string name="conf_timer_title">@string/home_btn_timer_desc</string>
+    <string name="conf_timer_description">El Timer Handler permite que Movilizer capture eventos externos cada cierto tiempo, por defecto cada 1 segundo, de este modo puede refrescar la información de la pantalla. Es útil para actualizar graficas o campos de tiempo.</string>
+
+
+    <string name="conf_notification_title">@string/home_btn_notification_desc</string>
+    <string name="conf_notification_description">El Notification Handler permite lanzar ventanas de información, alerta y de error desde Movilizer. Generalmente se usa desde los otros Handlers, aunque también es posible lanzar estas ventanas directamente.</string>
+
+
+    <string name="conf_incognit_title">@string/home_btn_incognit_name</string>
+    <string name="conf_incognit_description">Si habilita el modo incognito no podrá volver a ver esta interfaz salvo que lo desactive desde Movilizer o borre los datos de configuración de Movilizer Handler desde el administrador de aplicaciones de Android. Use esta funcionalidad con cuidado.</string>
+    <string name="conf_incognit_enable_incognit_mode">Enable incognit mode</string>
+    <string name="conf_incognit_doodbye">Goodbye &#x1F92B;</string>
+    <string name="conf_incognit_gui_disabled">The graphical interface is disabled!</string>
+    <string name="conf_incognit_gui_enabled">The graphical interface has been enabled.</string>
+
+
+
+    <string name="pref_missing_input_data">Verify that the call to the Handler includes it in the input data.</string>
+    <string name="pref_parameter_mandatory">The \'#1\' parameter is mandatory. Verify that the call to the Handler includes it in the input data.</string>
+    <string name="pref_parameter_not_valid">The \'#1\' parameter with \'#2\' value is not valid.</string>
+    <string name="pref_handler_not_supported">The handler \'#1\' is not supported by Movilizer Handler.</string>
+
+
+
+
+
+
+
+    <string name="notifbar_scanning_service_active">The scanning service is active</string>
+    <string name="notifbar_sound_service_active">The sound service is active</string>
+
+
+    <string name="conf_configuration_saved">Configuration saved successfully.</string>
+    <!--<string name="conf_description">These options allow you to configure the behavior of the scanner handler to fit your device and installed Movilizer version.</string>-->
+    <string name="conf_device_model">Device model:</string>
+
+    <string name="conf_movilizer_client">Movilizer client installed:</string>
+    <string name="conf_save">Save</string>
+
+
+    <string name="movilizer_dialog_info">Info</string>
+    <string name="movilizer_dialog_warning">Warning</string>
+    <string name="movilizer_dialog_error">Error</string>
+    <string name="movilizer_dialog_fatal_error">The input parameters caused an exception.</string>
+    <string name="movilizer_dialog_nfc" translatable="false">NFC</string>
+    <string name="movilizer_dialog_nfc_message">Tab the NFC Tag to your device!</string>
+    <string name="movilizer_dialog_nfc_not_available">NFC not available</string>
+    <string name="movilizer_dialog_nfc_disabled">You need to enable NFC</string>
+    <string name="movilizer_dialog_task_field_missing">The field \'TASK\' is mandatory and must have the value \'START\' or \'STOP\'.</string>
+    <string name="movilizer_dialog_event_id_field_missing">The field \'EVENT_ID\' is mandatory and must have the integer value.</string>
+    <string name="movilizer_dialog_device_field_missing">Make sure that I select a device in the Movilizer Scanner Handler configuration.</string>
+    <string name="movilizer_dialog_ok">Ok</string>
+    <string name="movilizer_dialog_cancel">Cancel</string>
+    <string name="movilizer_dialog_impossible_run_scanner_service">Impossible to run the scanner service.\nMake sure you have set all the options in the Movilizer Scanner Handler application.</string>
+
+
+</resources>

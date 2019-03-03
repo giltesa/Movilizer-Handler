@@ -1,0 +1,23 @@
+<vector android:height="24dp" android:viewportHeight="96"
+    android:viewportWidth="96" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/homeIconColorPrimary" android:pathData="M14.34,12.38C19.85,11.55 25.5,12.14 31.07,12.02C33.44,11.69 36.01,13.35 35.92,15.9C35.92,21.83 36.43,27.85 35.61,33.72C33.21,37.63 27.75,35.46 23.99,36C20.23,35.48 14.86,37.59 12.39,33.76C11.51,29.24 12.22,24.57 11.97,19.99C12.06,17.37 11.39,13.71 14.34,12.38M20,20C20,22.67 20,25.33 20,28C22.67,28 25.33,28 28,28C28,25.33 28,22.67 28,20C25.33,20 22.67,20 20,20Z"/>
+    <path android:fillColor="@color/homeIconColorPrimary" android:pathData="M44,12C46.67,12 49.33,12 52,12C52,14.67 52,17.34 52,20C49.33,20 46.66,20 44,20C44,17.33 44,14.67 44,12Z"/>
+    <path android:fillColor="@color/homeIconColorPrimary" android:pathData="M62.34,12.38C67.15,11.53 72.11,12.2 76.98,11.97C79.48,11.9 83.12,11.81 83.79,14.94C84.23,20.63 84.02,26.39 83.92,32.1C84.02,34.19 82.15,36.02 80.07,35.93C74.66,36.08 69.24,36.09 63.83,35.92C61.81,35.94 59.97,34.15 60.07,32.1C59.87,27.05 60.01,21.98 60,16.93C59.89,15.13 60.56,13.14 62.34,12.38M68,20C68,22.67 68,25.33 68,28C70.66,28 73.33,28 76,28C76,25.33 75.99,22.67 76,20C73.33,20 70.67,20 68,20Z"/>
+    <path android:fillColor="@color/homeIconColorPrimary" android:pathData="M44,28C46.67,28 49.33,28 52,28C52,30.67 52,33.33 52,36C49.33,36 46.67,36 44,36C44,33.33 44,30.67 44,28Z"/>
+    <path android:fillColor="@color/homeIconColorPrimary" android:pathData="M12,44C14.67,44 17.33,44 20,44C20,46.67 20,49.33 20,52C17.33,52 14.67,52 12,52C12,49.33 12,46.66 12,44Z"/>
+    <path android:fillColor="@color/homeIconColorPrimary" android:pathData="M28,44C30.67,44 33.33,44 36,44C36,46.67 36,49.33 36,52C33.33,51.99 30.66,51.99 28,52C28,49.33 28,46.66 28,44Z"/>
+    <path android:fillColor="@color/homeIconColorPrimary" android:pathData="M44,44C46.66,44 49.33,44 52,44C52,46.66 52,49.33 52,52C49.33,52 46.66,52 44,52C44,49.33 44,46.66 44,44Z"/>
+    <path android:fillColor="@color/homeIconColorPrimary" android:pathData="M60,44C62.67,44 65.33,44 68,44C68,46.66 68,49.33 68,52C65.33,52 62.67,52 60,52C60,49.33 60,46.66 60,44Z"/>
+    <path android:fillColor="@color/homeIconColorPrimary" android:pathData="M76,44C78.67,44 81.33,44 84,44C84,46.66 84,49.33 84,52C81.34,52 78.67,52 76,52C76,49.33 76,46.67 76,44Z"/>
+    <path android:fillColor="@color/homeIconColorPrimary" android:pathData="M52,52C54.67,52 57.33,52 60,52C60,54.67 60,57.33 60,60C57.33,60 54.67,60 52,60C52,57.33 52,54.67 52,52Z"/>
+    <path android:fillColor="@color/homeIconColorPrimary" android:pathData="M68,52C70.67,52 73.33,52 76,52C76,54.67 76,57.33 76,60C73.33,60 70.67,60 68,60C68,57.33 68,54.67 68,52Z"/>
+    <path android:fillColor="@color/homeIconColorPrimary" android:pathData="M14.3,60.4C19.12,59.51 24.09,60.21 28.98,59.97C31.48,59.91 35.13,59.8 35.79,62.94C36.23,68.62 36.02,74.36 35.93,80.05C36.03,82.12 34.21,84.01 32.12,83.92C26.72,84.08 21.3,84.09 15.9,83.92C13.82,83.98 11.94,82.13 12.07,80.04C11.88,75.04 12.01,70.02 12,65.02C11.89,63.2 12.5,61.18 14.3,60.4M20,68C20,70.67 20,73.33 20,76C22.67,76 25.33,76 28,76C28,73.33 28,70.67 28,68C25.33,68 22.67,68 20,68Z"/>
+    <path android:fillColor="@color/homeIconColorPrimary" android:pathData="M44,60C46.66,60 49.33,60 52,60C52,62.67 52,65.33 52,68C49.33,68 46.66,68 44,68C44,65.33 44,62.67 44,60Z"/>
+    <path android:fillColor="@color/homeIconColorPrimary" android:pathData="M60,60C62.67,60 65.33,60 68,60C68,62.67 68,65.33 68,68C65.33,68 62.67,68 60,68C60,65.33 60,62.67 60,60Z"/>
+    <path android:fillColor="@color/homeIconColorPrimary" android:pathData="M76,60C78.67,60 81.33,60 84,60C84,62.67 84,65.33 84,68C81.34,68 78.67,68 76,68C76,65.33 76,62.67 76,60Z"/>
+    <path android:fillColor="@color/homeIconColorPrimary" android:pathData="M52,68C54.67,68 57.33,68 60,68C60,70.67 60,73.33 60,76C57.33,76 54.67,76 52,76C52,73.33 52,70.67 52,68Z"/>
+    <path android:fillColor="@color/homeIconColorPrimary" android:pathData="M68,68C70.67,68 73.33,68 76,68C76,70.67 76,73.33 76,76C73.33,76 70.67,76 68,76C68,73.33 68,70.67 68,68Z"/>
+    <path android:fillColor="@color/homeIconColorPrimary" android:pathData="M44,76C46.66,76 49.33,76 52,76C52,78.67 52,81.33 52,84C49.33,84 46.66,84 44,84C44,81.33 44,78.67 44,76Z"/>
+    <path android:fillColor="@color/homeIconColorPrimary" android:pathData="M60,76C62.67,76 65.33,76 68,76C68,78.67 68,81.33 68,84C65.33,83.99 62.67,83.99 60,84C60,81.33 60,78.67 60,76Z"/>
+    <path android:fillColor="@color/homeIconColorPrimary" android:pathData="M76,76C78.67,76 81.33,76 84,76C84,78.67 84,81.33 84,84C81.33,83.99 78.67,83.99 76,84C76,81.33 76,78.67 76,76Z"/>
+</vector>

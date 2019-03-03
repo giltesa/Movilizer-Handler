@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffaa00</color>
+    <color name="lightColorPrimary">#ffdc4a</color>
+    <color name="darkColorPrimary">#c67b00</color>
+    <color name="textColorPrimary">#000000</color>
+
+
+    <color name="homeIconColorPrimary">#000000</color>
+    <color name="homeIconBgColorPrimary">@color/colorPrimary</color>
+    <color name="homeIconColorInvert">@color/homeIconBgColorPrimary</color>
+    <color name="homeIconBgColorInvert">@color/homeIconColorPrimary</color>
+
+    <color name="white">#ffFFFF</color>
+
+    <color name="colorAccent">#ffaa00</color>
+
+    <color name="darkerGray">#aaa</color>
+    <color name="lightGray">#ededed</color>
+    <color name="deepPurple">#7c4dff</color>
+
+    <color name="headerColor">#ffe0e0e0</color>
+
+
+
+
+
+
+
+
+
+
+</resources>
